@@ -16,7 +16,7 @@ In this project, you can build your own C++ application starting with this repo,
 * gcc/g++ >= 5.4
   * Linux: gcc / g++ is installed by default on most Linux distros
   * Mac: same deal as make - [install Xcode command line tools](https://developer.apple.com/xcode/features/)
-  * Windows: recommend using [MinGW](http://www.mingw.org/)
+  * Windows: recommend using https://www.mingw-w64.org/
 
 ## Basic Build Instructions
 
